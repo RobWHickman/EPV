@@ -11,7 +11,7 @@ library(grid)
 ```
 
 ```{r}
-riquelme <- readPNG("./riquelme.png") %>%
+riquelme <- readPNG("./riquelme2.png") %>%
   rasterGrob()
 ```
 
@@ -21,6 +21,6 @@ library(ggplot2)
 sticker(riquelme, s_width = 4, s_height = 4, s_x = 0.7,
         package="EPV", p_size = 20, p_color = "#19325d", p_y = 1.5, p_x = 1.2,
         h_fill = "#FFFFFF", h_color = "#19325d",
-        filename="imgfile.png")
+        filename="hexSticker.png")
 ```
 

@@ -1,0 +1,14 @@
+---
+title: "README"
+output: github_document
+pagetitle: README
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+
+# Status
+[![Build Status](https://travis-ci.org/RobWHickman/EPV.png)](https://travis-ci.org/RobWHickman/ggparliament)
+![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/EPV)
+<img src = "./hex_sticker/hexSticker.png" align = "right" width = "200"/>
+
