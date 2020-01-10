@@ -1,11 +1,12 @@
 Package: EPV
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Simple Expected Possession Value in R
 Version: 0.1.0
+Date: 2020-01-10
 Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Maintainer: Robert Hickman <robwhickman@gmail.com>
+Description: R package primarily to store code used in Robert Hickman's talk
+    on xT at 2019 StatsBomb conference
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
